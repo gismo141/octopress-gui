@@ -12,7 +12,7 @@ I aim to bring a most beautiful and native look and feel as possible. This is wh
 I don't know yet what would be the best for Windows. Maybe IronRuby or something...
 
 ROADMAP
-=======
+---
 
 * Create and browse posts
 * Edit configurations
@@ -20,6 +20,6 @@ ROADMAP
 * OSX GUI
 
 About this project
-==================
+---
 
 Whith this project, I aim to learn Ruby and UI Toolkits. I'm coming from Java/Swing and I'm new to Ruby so any tips will be very welcomed.
