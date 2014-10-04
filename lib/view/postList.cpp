@@ -1,4 +1,4 @@
-#include "postList.h"
+#include "view/postList.h"
 
 postList::postList(QMainWindow *parent) {
 	thisParent = parent;

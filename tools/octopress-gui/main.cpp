@@ -1,6 +1,6 @@
 #include <QApplication>
 
-#include "view/octopress_gui.h"
+#include "view/octopress-gui.h"
 
 int main(int argc, char** argv) {
 	QApplication::setOrganizationName("MyCompany");

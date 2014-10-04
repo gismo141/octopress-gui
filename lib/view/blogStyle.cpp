@@ -1,6 +1,6 @@
 #include <QHBoxLayout>
 
-#include "blogStyle.h"
+#include "view/blogStyle.h"
 
 blogStyle::blogStyle(QMainWindow *parent) {
 	thisParent = parent;

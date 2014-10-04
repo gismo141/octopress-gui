@@ -1,1 +1,4 @@
-cocoa/OctopressGui.app
+*.sublime-project
+*.sublime-workspace
+build/
+.DS_Store

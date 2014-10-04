@@ -1,4 +1,4 @@
-#include "octopress_gui.h"
+#include "view/octopress-gui.h"
 
 octopress_gui::octopress_gui() : QMainWindow(NULL) {
 	setWindowTitle("New Blog - octopress_gui");
